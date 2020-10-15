@@ -5,9 +5,12 @@
   font-weight: 16px;
 }
 
+
+
+
+
 @media screen and (max-width: 767px) {
   .footer__copyright {
-    font-size: 14px;
     font-weight: 14px;
   }
 }
