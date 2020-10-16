@@ -1,14 +1,10 @@
 .footer__copyright {
+  font-family: 'Inter';
   margin: 0;
   font-style: normal;
   font-size: 14px;
   font-weight: 16px;
 }
-
-
-
-
-
 @media screen and (max-width: 767px) {
   .footer__copyright {
     font-weight: 14px;

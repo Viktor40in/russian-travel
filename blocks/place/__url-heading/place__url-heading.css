@@ -1,4 +1,7 @@
 .place__url-heading {
+  font-family: 'inter';
+  font-style: normal;
+  font-weight: normal;
   text-transform: uppercase;
   font-size: 12px;
   line-height: 12px;

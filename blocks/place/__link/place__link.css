@@ -1,12 +1,13 @@
 .place__link {
+font-family: 'Inter';
+font-style: normal;
+font-weight: normal;
 display: block;
 margin-top: 12px;
 color: #FFFFFF;
 font-size: 18px;
 line-height: 22px;
 text-decoration-line: underline;
-font-style: normal;
-font-weight: normal;
 }
 
 .place__link:hover {

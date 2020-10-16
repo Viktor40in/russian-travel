@@ -1,5 +1,6 @@
 .intro__text {
     max-width: calc(100% - 294px);
+    font-family: 'Inter';
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
