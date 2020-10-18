@@ -1,5 +1,7 @@
 .header__links {
-    margin:0;
-    align-self: flex-end;
-    font-weight: normal;
+  margin: 0;
+  align-self: flex-end;
+  font-weight: normal;
+  display: flex;
+  list-style-type: none;
 }
