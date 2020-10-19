@@ -9,7 +9,4 @@
   .footer__list{
     flex-direction: column;
   }
-  .footer__list:last-child{
-    margin:0 0 48px 0;
-  }
 }

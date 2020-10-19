@@ -1,7 +1,7 @@
 .intro__style {
   font-weight: bold;
   font-style: normal;
-  font-family: 'Inter',serif;
+  font-family: 'Inter', ‘Arial’, sans-serif;
   text-rendering: optimizeLegibility;
   display: inline;
 }
